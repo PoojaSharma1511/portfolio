@@ -16,12 +16,12 @@ const Project = () => {
     {
       id: 2,
       src: expanse,
-      url : "https://delightful-unicorn-cb31bc.netlify.app"
+      url : "https://expanse-manager-app.netlify.app/"
     },
     {
       id: 3,
       src: rapido1,
-      url : "https://tourmaline-sundae-8f4c97.netlify.app"
+      url : "https://rapido-clone-app.netlify.app/"
 
     },
     {
@@ -32,7 +32,7 @@ const Project = () => {
     {
       id: 5,
       src: micro,
-      url : "https://lustrous-lokum-ce8a96.netlify.app"
+      url : "https://micro-clone-sharma.netlify.app/"
     },
     {
       id: 6,
