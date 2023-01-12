@@ -11,7 +11,7 @@ const Project = () => {
     {
       id: 1,
       src: paratha,
-      url : "https://pooja-frontend.netlify.app/"
+      url : "https://pooja-paratha-store.netlify.app/"
     },
     {
       id: 2,
