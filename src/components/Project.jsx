@@ -1,9 +1,9 @@
 import React from "react";
 import paratha from "../assets/Project/paratha.jpg"
 import rapido1 from "../assets/Project/rapido1.png";
-import vedshree from "../assets/Project/vedshree.png"
+import cal from "../assets/Project/cal.png"
 import expanse from "../assets/Project/expanse.jpg"
-import login from "../assets/Project/login.png"
+import micro from "../assets/Project/micro.png"
 import quotes from "../assets/Project/quotes.jpg"
 
 const Project = () => {
