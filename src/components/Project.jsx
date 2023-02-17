@@ -1,9 +1,9 @@
 import React from "react";
 import paratha from "../assets/Project/paratha.jpg"
 import rapido1 from "../assets/Project/rapido1.png";
-import cal from "../assets/Project/cal.png"
+import vedshree from "../assets/Project/vedshree.png"
 import expanse from "../assets/Project/expanse.jpg"
-import micro from "../assets/Project/micro.png"
+import login from "../assets/Project/login.png"
 import quotes from "../assets/Project/quotes.jpg"
 
 const Project = () => {
@@ -31,13 +31,13 @@ const Project = () => {
     },
     {
       id: 5,
-      src: micro,
-      url : "https://micro-clone-sharma.netlify.app/"
+      src: login,
+      url : "https://cloneloginpj.netlify.app/"
     },
     {
       id: 6,
-      src : cal,
-      url : "https://magenta-sorbet-2b2b9e.netlify.app"
+      src : vedshree,
+      url : "https://vedshree-ayur.netlify.app/"
 
     },
   ];
