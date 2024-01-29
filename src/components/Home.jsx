@@ -11,10 +11,10 @@ const Home = () => {
     >
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
-          <h2 className="text-4xl sm:text-7xl font-semibold text-white ml-4 ">
+          <h2 className="text-4xl sm:text-6xl font-semibold text-white ml-4 ">
             I'm a Frontend Developer
           </h2>
-          <p className="text-gray-300 py-4 max-w-md ml-4">
+          <p className="text-gray-300 py-4  ml-4">
           With a year of hands-on experience in building and designing software, 
           I find my passion in crafting web applications that leave a lasting impact. 
           My toolkit includes cutting-edge technologies such as React, Tailwind CSS, React Native, along with a strong foundation in JavaScript, HTML, and CSS. I 
