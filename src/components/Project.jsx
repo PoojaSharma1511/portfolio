@@ -2,7 +2,8 @@ import React from "react";
 import paratha from "../assets/Project/paratha.jpg"
 import rapido1 from "../assets/Project/rapido1.png";
 // import cal from "../assets/Project/cal.png"
-import expanse from "../assets/Project/expanse.jpg"
+// import expanse from "../assets/Project/expanse.jpg"
+import live from "../assets/Project/live.png";
 // import micro from "../assets/Project/micro.png"
 import quotes from "../assets/Project/quotes.jpg"
 
@@ -15,7 +16,7 @@ const Project = () => {
     },
     {
       id: 2,
-      src: expanse,
+      src: live,
       // url : "https://expanse-manager-app.netlify.app/"
       url : "https://abhinavnursinghomeindore.com/"
     },
