@@ -14,20 +14,30 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20 ml-4">
-        Hello stranger! 👋, my name is Pooja sharma and I am a Full Stack Developer, passionate 
-        about building digital products that improve everyday experience for people.
-        And i  have completed MERN bootcamp training from Eskill web .
+        Hey there! 👋 I'm Pooja Sharma, a React developer with 1 year of experience.
+         I recently completed a rigorous MERN bootcamp at Eskill Web. 
+         Passionate about enhancing user experiences, 
+         I love crafting digital products that make a positive impact. 
+         Let's connect and discuss how I can bring my skills to your projects! 🚀
       </p>
 
         <br />
 
         <p className="text-xl ml-4">
-        Full Stack Developer with a proven ability to collaborate effectively with senior developer 
-        while spending extra time to be mentored. Enjoy working closely with team members to ensure 
-        workloads are effectively redirected to bottlenecks and personally picking up the slack when 
-        necessary. With the passion for both personal growth and for software development, I attended a 
-        1000+ hour coding bootcamp to learn new languages while sharpening existing skills. Ready to apply
-         my passion for coding to a talented engineering team to develop quality solution.
+        Greetings! 👋 I'm a collaborative Frontend Developer, adept at working with 
+        senior developers and stepping up when needed. I enjoy closely coordinating 
+        with team members to redirect workloads efficiently during bottlenecks. 
+        Driven by a passion for both personal growth and software development, 
+        I dedicated over 1000 hours to a coding bootcamp, acquiring new languages
+         and honing existing skills.
+
+Now, I'm ready to channel my coding fervor into a talented engineering team,
+ contributing to the creation of top-notch solutions. I bring a proven ability to 
+ adapt and thrive in dynamic environments. Let's connect and explore how my skills can 
+ add value to our collective journey! 🚀
+
+
+
         </p>
       </div>
     </div>

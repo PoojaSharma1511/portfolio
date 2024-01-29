@@ -41,7 +41,7 @@ const SocialLinks = () => {
     //       instagram <HiOutlineMail size={30} />
     //     </>
     //   ),
-    //   href: "https://www.instagram.com//me",
+    //   href: "https:",
 
     // },
     {
@@ -51,7 +51,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/resume.pdf",
+      href: "/PoojaSharma_ReactDeveloper_resume.pdf",
       style: "rounded-br-md",
       download: true,
     },

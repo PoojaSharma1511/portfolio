@@ -1,9 +1,9 @@
 import React from "react";
 import paratha from "../assets/Project/paratha.jpg"
 import rapido1 from "../assets/Project/rapido1.png";
-import cal from "../assets/Project/cal.png"
+// import cal from "../assets/Project/cal.png"
 import expanse from "../assets/Project/expanse.jpg"
-import micro from "../assets/Project/micro.png"
+// import micro from "../assets/Project/micro.png"
 import quotes from "../assets/Project/quotes.jpg"
 
 const Project = () => {
@@ -16,7 +16,8 @@ const Project = () => {
     {
       id: 2,
       src: expanse,
-      url : "https://expanse-manager-app.netlify.app/"
+      // url : "https://expanse-manager-app.netlify.app/"
+      url : "https://abhinavnursinghomeindore.com/"
     },
     {
       id: 3,
@@ -29,17 +30,17 @@ const Project = () => {
       src: quotes,
       url : "https://quoteg.netlify.app/"
     },
-    {
-      id: 5,
-      src: login,
-      url : "https://cloneloginpj.netlify.app/"
-    },
-    {
-      id: 6,
-      src : vedshree,
-      url : "https://vedshree-ayur.netlify.app/"
+    // {
+    //   id: 5,
+    //   src: login,
+    //   url : "https://cloneloginpj.netlify.app/"
+    // },
+    // {
+    //   id: 6,
+    //   src : vedshree,
+    //   url : "https://vedshree-ayur.netlify.app/"
 
-    },
+    // },
   ];
 
   return (

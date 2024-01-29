@@ -4,7 +4,7 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import node from "../assets/node.png";
+// import node from "../assets/node.png";
 import redux from "../assets/redux.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
@@ -43,8 +43,8 @@ const Experience = () => {
     },
     {
       id: 6,
-      src: node,
-      title: "Node JS",
+      src: reactImage,
+      title: "React-Native",
       style: "shadow-white",
     },
     {
